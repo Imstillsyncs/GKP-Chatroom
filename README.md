@@ -1,4 +1,6 @@
 # LowChat
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FImstillsyncs%2FGKP-Chatroom.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FImstillsyncs%2FGKP-Chatroom?ref=badge_shield)
+
 
 A powerful chatting application which supports commands, nicknames, rooms, and is simplistic in design.
 
@@ -68,3 +70,7 @@ Mutes the specified `user`
 
 **/unmute `user`**
 Unmutes the specified `user`
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FImstillsyncs%2FGKP-Chatroom.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FImstillsyncs%2FGKP-Chatroom?ref=badge_large)
