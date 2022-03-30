@@ -2,7 +2,7 @@
 
 A powerful chatting application which supports commands, nicknames, rooms, and is simplistic in design.
 
-The hosted server can be found [here](https://chat.hyperjs.ml/)
+The hosted server can be found [here](https://public-chat.syncsgxtvibezz.repl.co/)
 
 # How to get OP
 Note: For this to happen, you need to fork my reply into your own.
