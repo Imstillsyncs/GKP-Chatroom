@@ -31,10 +31,11 @@ $(document).ready(function () {
 					username = localStorage.getItem('username');
 					client.emit('message', { message: `/nick ${localStorage.getItem('username')}` });
 				}
-				document.title = `LowChat | ${room}`;
+				document.title = `GKP | ${room}`;
 				parseChatLog();
 				break;
 		}
+
 	});
 	client.on('message', function (data) {
 		data.time = formatDate(new Date());
@@ -178,3 +179,4 @@ $(window).focus(function () {
 function randHex() {
 	return Math.floor(Math.random() * 16777215).toString(16);
 }
+

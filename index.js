@@ -512,3 +512,5 @@ function formatHMS(time) {
 	let seconds = Math.floor(time / 1000) % 60;
 	return `${hours}h:${minutes < 10 ? '0' + minutes : minutes}m:${seconds < 10 ? '0' + seconds : seconds}s`;
 }
+
+
